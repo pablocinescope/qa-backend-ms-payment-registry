@@ -19,7 +19,7 @@ spec:
     spec:
       containers:
         - name: backend-ms-payment-registry
-          image: zebolhd/qa-backend-ms-payment-registry:latest
+          image: pablocinescope/qa-backend-ms-payment-registry:latest
           resources:
             requests:
               memory: "64Mi"
